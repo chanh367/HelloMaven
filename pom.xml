@@ -35,7 +35,7 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub chanh367 Apache Maven Packages</name>
+            <name>GitHub TobseF Apache Maven Packages</name>
             <url>https://maven.pkg.github.com/chanh367/HelloMaven</url>
         </repository>
     </distributionManagement>
